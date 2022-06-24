@@ -4,3 +4,4 @@
 
 - Primer paso : definir las formulas
 - Implentar las formulas en javasScript
+- implementacion de formulas en java
