@@ -11,3 +11,9 @@
 - 2 implementar la formula
 - 3 crear funciones
 - 4 integra JS con HTMl
+
+## tallaer # 3 promedio, mediana y moda
+- 1 definir formulas
+- 2 implementar la formula
+- 3 crear funciones
+- 4 integra JS con HTMl
